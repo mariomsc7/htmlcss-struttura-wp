@@ -36,3 +36,9 @@ main {
     height: 300px;
     margin: 20px auto;
 }
+
+/* I section */
+
+.title {
+    background-color: turquoise;
+}
