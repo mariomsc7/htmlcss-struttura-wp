@@ -6,6 +6,10 @@
     
 }
 
+body {
+    margin: auto 20%;
+}
+
 /* CLEARFIX UTILITY */
 .clearfix::after {
     content: '';
